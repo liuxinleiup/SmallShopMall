@@ -20,7 +20,7 @@
 ## 3.支付
 <span style="color:#333333"><img src="https://i.postimg.cc/NfYR2TRw/image.png" width="50%"></span>
 ## 4.订单
-<span style="color:#333333"><img src="https://i.postimg.cc/2Sg6hRgB/image.png" width="50%"></span>
+<span style="color:#333333"><img src="https://i.postimg.cc/GtFBLcKC/C1-X-RJJWT-N-VD-O-4-B.png" width="50%"></span>
 # 四：运行
       进入HBuilderX，点击上方运行到浏览器就行  
 
