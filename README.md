@@ -6,7 +6,7 @@
       环境：Chrome  
 [UniCloud](https://uniapp.dcloud.net.cn/uniCloud/)、[Unipay](https://uniapp.dcloud.net.cn/uniCloud/uni-pay.html)    
 # 二：项目功能
-<首页模块、购物车模块、订单模块、支付模块   
+首页模块、购物车模块、订单模块、支付模块   
       
       首页模块：个人信息、商品类型、商品信息     
       购物车模块：订单名称 数量 价格、修改数量         
